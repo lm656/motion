@@ -1,0 +1,31 @@
+.skinny {
+	margin: 0px;
+}
+
+.maintable {
+	width: 90%;
+	margin: 0 auto;
+}
+
+h1, h5 {
+	text-align: center;
+}
+
+.glyphicon {
+	display: block;
+	text-align: center;
+	cursor: pointer;
+}
+
+.tableHeader {
+	display: block;
+	text-align: center;
+}
+
+#pageinput {
+	width: 50px;
+}
+
+#maxpageinput {
+	width: 50px;
+}
